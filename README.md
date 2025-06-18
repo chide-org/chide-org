@@ -2,7 +2,7 @@
 
 I'm a passionate undergraduate student at Huazhong University of Science and Technology (HUST), majoring in Bioinformatics at the College of Life Science and Technology.
 
-My Chinese name is Wang Huijun and my English name is Rapheal
+My Chinese name is Wang Huijun and my English name is Rapheal.
 
 ## 🔍 About Me
 
